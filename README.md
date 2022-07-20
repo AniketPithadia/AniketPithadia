@@ -1,16 +1,18 @@
-### Hey there, I'm Mandeep Singhmar👋
+### Hey there, I'm Aniket Pithadia👋
 
-## I'm a Front End Developer, ReactJs developer and avid learner!
+## I'm a Front End Developer, ReactJs developer and lifetime learner!
 - Passionate about web development technologies!
 - Building cool projects. 
-- Contributing to the community.
 - Learning new web technologies.
 
 ## Frontend 
-* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Chakra-UI, Ants
+* HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Ants
 
 ## Backend
 * Familiar with -  MONGODB, EXPRESS, NODE, TYPESCRIPT 
+
+## Tools
+* Firebase, Sanity, Netlify, Git and Github
 
 ### Languages and Tools:
 
