@@ -1,6 +1,6 @@
 ### Hey there, I'm Aniket Pithadia👋
 
-## I'm a Front End Developer, ReactJs developer and lifetime learner!
+## I'm a Mern stack Developer, ReactJs developer and lifetime learner!
 - Passionate about web development technologies!
 - Building cool projects. 
 - Learning new web technologies.
