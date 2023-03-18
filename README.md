@@ -9,7 +9,7 @@
 * HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Ants
 
 ## Backend
-* Familiar with -  MONGODB, EXPRESS, NODE, TYPESCRIPT 
+* MONGODB, EXPRESS, NODE
 
 ## Tools
 * Firebase, Sanity, Netlify, Git and Github
