@@ -9,10 +9,10 @@
 * HTML, CSS, JAVASCRIPT, REACT, REDUX, CSS LIBRARIES, SASS, Typescript, Nexjs, Material UI, Ants
 
 ## Backend
-* MONGODB, EXPRESS, NODE
+* MONGODB, MYSQL, EXPRESS, NODE, APPWRITE,SANITY.IO,
 
 ## Tools
-* Firebase, Sanity, Netlify, Git and Github
+* Firebase, Render, Netlify, Git and Github
 
 ### Languages and Tools:
 
